@@ -89,7 +89,7 @@ on:
 ## 5.4 (Optional) Create a JavaScript action
 1. Follow the guide to create a JavaScript action
     - [Creating a JavaScript action](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action)
-2. Use your action in a workflow
+2. Use your action in a workflow.
 ```YAML
       - name: Hello world action step
         id: hello
